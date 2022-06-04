@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Onkar Yogi
 - 👀 I’m interested in .Net,Core Java,Javascript,DevOps.
-- 🌱 I’m currently learning .Net framework,Core Java, Git,Linux.
-- 💞️ I’m looking to collaborate on flat rental system.
 - 📫 My email address - omkarapy@gmail.com
 
 <!---
